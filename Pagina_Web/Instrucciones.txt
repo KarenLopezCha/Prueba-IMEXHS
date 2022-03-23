@@ -1,0 +1,5 @@
+Instrucciones
+*se agrego opcion de ingresar nuevos miembros 
+en el boton a la derecha y listara en la tabla posterior. donde permitira relizar modificaciones 
+al nombre y al correo, por medio de los iconos.
+*se agregan interacciones a menu, botones, iconos y tablas.
