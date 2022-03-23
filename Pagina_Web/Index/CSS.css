@@ -1,0 +1,212 @@
+#contenedor {
+    padding: 3% 2% 1% 3%;
+    font-family: Sylfaen;
+}
+
+.Nempresa {
+    font-size: 25px;
+    color: #efaaf7;
+    font-family: fantasy;
+    float: left;
+}
+
+#btnAgregar {
+    margin-bottom: 3%;
+    font-family: Sylfaen;
+}
+
+#adicionar {
+    font-family: Sylfaen;
+}
+
+.icon-success:hover {
+    color: #a1d9f0;
+}
+
+.bi:hover {
+    color: rgb(114, 75, 114);
+}
+
+#lista {
+    font-size: 15px;
+    position: relative
+}
+
+p {
+    font-family: Sylfaen;
+    font-size: 15px;
+}
+
+h3 {
+    font-family: Sylfaen;
+}
+
+a {
+    font-family: Sylfaen;
+}
+
+.Page {
+    font-family: Sylfaen;
+    background-color: #a1d9f0;
+    text-align: center;
+}
+
+#lista2 {
+    font-size: 15px;
+    position: relative;
+    padding-bottom: 2%;
+    border-bottom: solid 0.5px #e0e0e0;
+}
+
+#IconNot {
+    margin-right: 20%;
+    text-align: end;
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.bi::before {
+    width: 30px;
+    height: 30px;
+}
+
+.img-fluid1 {
+    max-width: 100%;
+    height: 10%;
+    position: relative;
+    margin-bottom: -30%;
+    margin-block-start: auto;
+    margin-top: -35%;
+    margin-left: -20%;
+}
+
+.MenuNav {
+    font-size: 15px;
+    border-bottom: solid 0.5px #b8b8b8;
+}
+
+.MenuNav2 {
+    font-size: 15px;
+    border-bottom: solid 0.5px #b8b8b8;
+}
+
+#nav-link {
+    font-size: 15px;
+    border-left: solid 1px #575252;
+    border-top: solid 1px #575252;
+    border-bottom: solid 1px #575252;
+    border-right: solid 1px #575252;
+    width: auto;
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    background-color: #bbe5fa;
+    color: black;
+}
+
+.Admin1 {
+    width: auto;
+    height: 50%;
+}
+
+.thover:hover {
+    background-color: #b8b8b8;
+}
+
+.navbar-toggler {
+    margin-top: 10px;
+    position: inherit;
+    border-bottom-width: 10px;
+}
+
+.form-group {
+    border-radius: 1px;
+}
+
+#MenLista {
+    border-radius: 10px;
+}
+
+.nav-item {
+    position: relative;
+}
+
+.form-check-inline {
+    margin-left: 80%;
+}
+
+.Img-Circular1 {
+    border-radius: 50%;
+    height: auto;
+    width: 6.2%;
+    position: relative;
+}
+
+.Img-Circular2 {
+    border-radius: 50%;
+    height: auto;
+    width: 10%;
+    position: relative;
+}
+
+#seccion1 {
+    font-size: 90%;
+    position: relative;
+    height: auto;
+    font-family: sans-serif;
+}
+
+.card {
+    margin: 3px 3px 3px 3px;
+}
+
+.iconos {
+    position: relative;
+    align-content: right;
+    width: 5%;
+    height: 5%;
+}
+
+.iconos iframe {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px
+}
+
+.row {
+    height: auto;
+}
+
+.Titulo {
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.boton {
+    background-color: #a1d9f0;
+}
+
+.modal-header {
+    background-color: #a1d9f0;
+}
+
+.fas:hover {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.1);
+    margin: 1% 1% 1% 1%;
+    color: #93dafd;
+}
+
+.fa:hover {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.1);
+    margin: 1% 1% 1% 1%;
+    color: #93dafd;
+}
